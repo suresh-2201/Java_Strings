@@ -1,0 +1,2 @@
+# Strings in Java
+Strings in Java are objects that represent sequences of characters. They are widely used for storing and manipulating text. Java provides the String class to handle strings, and it offers a variety of methods for performing different operations on strings.
